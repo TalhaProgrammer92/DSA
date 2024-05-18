@@ -41,3 +41,4 @@ By mastering data structures and algorithms, you'll gain a deeper understanding 
 
 This is just the beginning of your exciting journey into data structures and algorithms! In the next steps, we'll delve deeper into each data structure, explore their implementations in C/C++, and learn how to design and analyze algorithms for various problems.
 
+Video:- https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=1
